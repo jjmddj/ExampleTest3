@@ -1,5 +1,5 @@
 #!/bin/bash
-
+mkdir hola
 sum=0
 mkdir -p imagenezs Descargas Ecology fotozs logs programacion/{certificado,codigo/{Java/{Education,Erase,Else},Go,PHP,Python,JavaScript,Economy},texzto,Every}
 echo "hola" >> Ecology/Action.txt 
